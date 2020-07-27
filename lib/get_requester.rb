@@ -11,6 +11,6 @@ class GetRequester
   end
 
   def get_response_body
-
+  end
 
 end
