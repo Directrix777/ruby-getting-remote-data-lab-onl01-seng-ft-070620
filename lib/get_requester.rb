@@ -1,6 +1,7 @@
 require 'uri'
 require 'json'
 require 'pry'
+require 'net/http'
 
 class GetRequester
 
